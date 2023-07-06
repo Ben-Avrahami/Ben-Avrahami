@@ -12,8 +12,6 @@ Here's a quick overview of the technologies I work with:
 
 - **TypeScript**: I'm a big advocate for TypeScript, as it brings static typing and enhanced tooling to JavaScript. I love working with it to write more maintainable and reliable code.
 
-- **C#**: I'm proficient in C# and have leveraged it to develop powerful backend solutions, web APIs, and desktop applications. It's a fantastic language for building robust and scalable systems.
-
 - **MongoDB**: I have hands-on experience with MongoDB, a popular NoSQL database, and have utilized its flexible document model to build scalable and performant data-driven applications.
 
 - **Java**: I'm skilled in Java and have utilized it to build enterprise-level applications, web services, and Android apps. Its robustness and cross-platform compatibility make it an excellent choice for various projects.
