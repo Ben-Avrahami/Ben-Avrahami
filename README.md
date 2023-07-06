@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and dedicated full stack software developer at Intel Corporation, currently pursuing a degree in Computer Science at the Open University of Israel.
 
-## Tech Stack
+## 💻 Tech Stack
 
 Here's a quick overview of the technologies I work with:
 
@@ -20,11 +20,11 @@ Here's a quick overview of the technologies I work with:
 
 - **Python**: I'm familiar with Python and have used it for scripting, automation, data analysis, and web development. Its simplicity and vast ecosystem make it a go-to language for a wide range of tasks.
 
-## Computer Science Education
+## 🎓 Computer Science Education
 
 I'm currently pursuing a Computer Science degree at the Open University of Israel, where I'm constantly expanding my knowledge and honing my skills in various areas. As a student, I have gained a solid theoretical foundation in computer science principles, algorithms, data structures, and software engineering practices.
 
-## What I Do
+## 🚀 What I Do
 
 I'm deeply passionate about software development and thrive on solving complex problems. Here's what I bring to the table:
 
@@ -36,7 +36,7 @@ I'm deeply passionate about software development and thrive on solving complex p
 
 - **Continuous Learning**: The field of technology is ever-evolving, and I embrace continuous learning. I stay up-to-date with the latest trends, frameworks, and tools to ensure that I deliver modern and cutting-edge solutions.
 
-## Let's Connect
+## 🌟 Let's Connect
 
 I'm always excited to collaborate on interesting projects, share ideas, and learn from fellow developers. Feel free to reach out to me through the following channels:
 
