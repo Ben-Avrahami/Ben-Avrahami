@@ -1,6 +1,6 @@
 # Hi there, I'm Ben! 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated full stack software developer at Intel Corporation, currently pursuing a degree in Computer Science at the Open University of Israel.
+Welcome to my GitHub profile! I'm a passionate and dedicated full stack software developer at Zero Networks, currently pursuing a degree in Computer Science at the Open University of Israel.
 
 ## 💻 Tech Stack
 
